@@ -1,6 +1,9 @@
 # m5stickcBugcBlynk
 [M5StickC](https://www.switch-science.com/catalog/5517/)をベースとした虫型ロボット[Bugc](https://www.switch-science.com/catalog/6208/)をBlynkで操作する。BlynkのFront/Back/Left/Rightを押すとその方向に進み、スライドバーで速度が指定できる。Bugcの特性上Frontを押してもきれにまっすぐに進まないが、それらしき方向には進む。
 
+## 開発環境
+Arduino IDE（M5Stickcのボード設定やライブラリインストールが別途必要）
+
 ## Bugc
 ![スクリーンショット 2021-09-26 19 08 04](https://user-images.githubusercontent.com/40074491/134803465-4effcb5c-682a-493b-b871-6d1209f349d0.png)
 
